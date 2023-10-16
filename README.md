@@ -10,5 +10,6 @@ Você pode baixar o netbeans, junto do xampp startando os serviços apache e MyS
 
  
   ## Aqui temos alguns screenshoots da API
- ![Banco Web 1](https://github.com/amandaglp/projeto-java-bancoweb/blob/main/Captura%20de%20tela%202023-06-01%20204.png)
+ ![Banco Web 1](https://github.com/amandaglp/projeto-java-bancoweb/blob/main/Captura%20de%20tela%202023-06-01%20000811.jpg)
+  ![Banco Web 2](https://github.com/amandaglp/projeto-java-bancoweb/blob/main/Captura%20de%20tela%202023-06-01%20204.png)
 
